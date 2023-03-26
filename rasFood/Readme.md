@@ -9,7 +9,7 @@
 
 * Início :  <b>26/03/2023</b> - Finalizado : <b>00/00/000 </b>
 * Curso : <b>Desvendando o JPA Hibernate</b>
-* Instituição : <b>Rasmoo/b>
+* Instituição : <b>Rasmoo</b>
 * Link do Curso : [Rasmoo](https://www.rasmoo.com)
 
 ## Linguagem & Ferramentas Utilizadas: 
