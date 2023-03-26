@@ -24,3 +24,5 @@
 ## _**Outros Links**_
 
 * [Modelo Arquivo Persistence.xml](https://examples.javacodegeeks.com/java-development/enterprise-java/jpa/java-persistence-xml-example/)
+* [Biblioteca H2 para Maven](https://mvnrepository.com/artifact/com.h2database/h2/2.1.214)
+* [Biblioteca Hibernate para Maven](https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager/5.6.15.Final)
