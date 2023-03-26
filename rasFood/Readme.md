@@ -20,3 +20,7 @@
 ## Ementa ✅ ⏸ 🔳
 * ⏸ - 📁- Módulo 01 - Introdução ao JPA Hibernate e tudo aquilo que é exigido na prática
 * 🔳 - 📁- Módulo 02 - Criando um abismo técnico entre você e seus colegas com JPA Hibernate Avançado
+
+## _**Outros Links**_
+
+* [Modelo Arquivo Persistence.xml](https://examples.javacodegeeks.com/java-development/enterprise-java/jpa/java-persistence-xml-example/)
