@@ -16,15 +16,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![H2](https://img.shields.io/badge/H2%20Database-0008BA?style=for-the-badge)
-
 
 ## Ementa ✅ ⏸ 🔳
 * ⏸ - 📁- Módulo 01 - Introdução ao JPA Hibernate e tudo aquilo que é exigido na prática
 * 🔳 - 📁- Módulo 02 - Criando um abismo técnico entre você e seus colegas com JPA Hibernate Avançado
-
-
-## Outros Links
-* [Biblioteca do Hibernate para Maven](https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager/5.6.15.Final)
-* [Biblioteca do H2 para Maven](https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager/5.6.15.Final)
